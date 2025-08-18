@@ -1,8 +1,8 @@
 # 👋 Bem vindo ao meu Perfil
 
 👨‍💻 **Software Engineer** na Stone  
-🚀 Trabalhando com **Clean Architecture**, **Arquitetura distribuída** e soluções escaláveis.
-🎮 Aprendendo desenvolvimento de jogos e mods.
+🚀 Trabalhando com **Clean Architecture**, **Arquitetura distribuída** e soluções escaláveis.<br>
+🎮 Aprendendo desenvolvimento de jogos e mods.<br>
 🚀 Sempre aprendendo, sempre evoluindo.
 
 
@@ -41,7 +41,8 @@
 - 💡 **KotlinCQRS** – Exemplo de aplicação do padrão CQRS com Kotlin, utilizando a arquitetura hexagonal  
 - 🎱 **Pokereax** - Pokedex em React TS  
 
-
+### 🎮 Mods publicados
+- 🔋 **InfiniteEnergy** - Mod de R.E.P.O publicado na Thunderstore com aproximadamente 7K downloads. [Link](https://thunderstore.io/c/repo/p/nilt0n/InfiniteEnergy/)
 
 ## 📈 Estatísticas do GitHub
 
