@@ -38,8 +38,8 @@
 - 🎮 **GameLog** – .NET com Clean Architecture e CQRS  
 - 🌲 **Timbering** – Plugin Java para Spigot que facilita a coleta de madeira no Minecraft  
 - 🧩 **Pokedle** – Wordle estilo Pokémon em React + TypeScript  
-- 🧩 **KotlinCQRS** – Exemplo de aplicação do padrão CQRS com Kotlin, utilizando a arquitetura hexagonal  
-- 🧩 **Pokereax** - Pokedex em React TS  
+- 💡 **KotlinCQRS** – Exemplo de aplicação do padrão CQRS com Kotlin, utilizando a arquitetura hexagonal  
+- 🎱 **Pokereax** - Pokedex em React TS  
 
 
 
