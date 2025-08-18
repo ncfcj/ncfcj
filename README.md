@@ -5,7 +5,6 @@
 🎮 Aprendendo desenvolvimento de jogos e mods.
 🚀 Sempre aprendendo, sempre evoluindo.
 
----
 
 ## 🔧 Tecnologias e Ferramentas
 
@@ -33,7 +32,6 @@
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
----
 
 ## 📌 Projetos em destaque
 
@@ -43,7 +41,7 @@
 - 🧩 **KotlinCQRS** – Exemplo de aplicação do padrão CQRS com Kotlin, utilizando a arquitetura hexagonal  
 - 🧩 **Pokereax** - Pokedex em React TS  
 
----
+
 
 ## 📈 Estatísticas do GitHub
 
@@ -51,14 +49,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncfcj&layout=compact&theme=dracula" height="180em" />
 </p>
 
----
 
 ## 🌎 Onde me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/niltoncosmejunior/)  
 - 📧 Email: ncjr1@outlook.com  
 
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250" alt="Coding gif" />
