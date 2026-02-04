@@ -1,14 +1,15 @@
-# 👋 Bem vindo ao meu Perfil
+# 👋 Welcome to my Profile
 
-👨‍💻 **Software Engineer** na Stone  
-🚀 Trabalhando com **Clean Architecture**, **Arquitetura distribuída** e soluções escaláveis.<br>
-🎮 Aprendendo desenvolvimento de jogos e mods.<br>
-🚀 Sempre aprendendo, sempre evoluindo.
+👨‍💻 **Software Engineer** at Stone  
+🚀 Working with **Clean Architecture**, **distributed systems**, and scalable solutions.  
+🎮 Learning game and mod development in my free time.  
+📈 Always learning, always improving.
 
+---
 
-## 🔧 Tecnologias e Ferramentas
+## 🔧 Technologies & Tools
 
-### 📝 Linguagens
+### 📝 Languages
 <p align="flex-start">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
@@ -24,7 +25,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-### ⚙ Ferramentas
+### ⚙ Tools & Platforms
 <p align="flex-start">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
@@ -33,29 +34,34 @@
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-## 📌 Projetos em destaque
+---
 
-- 🎮 **GameLog** – .NET com Clean Architecture e CQRS  
-- 🌲 **Timbering** – Plugin Java para Spigot que facilita a coleta de madeira no Minecraft  
-- 🧩 **Pokedle** – Wordle estilo Pokémon em React + TypeScript  
-- 💡 **KotlinCQRS** – Exemplo de aplicação do padrão CQRS com Kotlin, utilizando a arquitetura hexagonal  
-- 🎱 **Pokereax** - Pokedex em React TS  
+## 📌 Featured Projects
 
-### 🎮 Mods publicados
-- 🔋 **InfiniteEnergy** - Mod de R.E.P.O publicado na Thunderstore com aproximadamente 7K downloads. [Link](https://thunderstore.io/c/repo/p/nilt0n/InfiniteEnergy/)
+- 🎮 **GameLog** – .NET application using Clean Architecture and CQRS  
+- 🌲 **Timbering** – Java plugin for Spigot that improves wood harvesting mechanics in Minecraft  
+- 🧩 **Pokedle** – Pokémon-themed Wordle built with React and TypeScript  
+- 💡 **KotlinCQRS** – Example of the CQRS pattern implemented in Kotlin using Hexagonal Architecture  
+- 🎱 **Pokereax** – Pokédex built with React and TypeScript  
 
-## 📈 Estatísticas do GitHub
+### 🎮 Published Mods
+- 🔋 **InfiniteEnergy** – R.E.P.O mod published on Thunderstore with ~21K downloads.
+  👉 [View on Thunderstore](https://thunderstore.io/c/repo/p/nilt0n/InfiniteEnergy/)
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncfcj&layout=compact&theme=dracula" height="180em" />
 </p>
 
+---
 
-## 🌎 Onde me encontrar
+## 🌎 Where to find me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/niltoncosmejunior/)  
 - 📧 Email: ncjr1@outlook.com  
-
 
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250" alt="Coding gif" />
