@@ -38,7 +38,7 @@
 
 ## 📌 Featured Projects
 
-- 🎮 **GameLog** – .NET application using Clean Architecture and CQRS  
+- 🔑 **Aluga** – .NET application using Clean Architecture and CQRS
 - 🌲 **Timbering** – Java plugin for Spigot that improves wood harvesting mechanics in Minecraft  
 - 🧩 **Pokedle** – Pokémon-themed Wordle built with React and TypeScript  
 - 💡 **KotlinCQRS** – Example of the CQRS pattern implemented in Kotlin using Hexagonal Architecture  
