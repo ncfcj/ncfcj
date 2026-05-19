@@ -1,4 +1,4 @@
-# 👋 Welcome to my Profile
+# <img width="30" height="30" alt="wave" src="https://github.com/user-attachments/assets/c9f88d91-6eef-4ea0-b3d6-35ccc6b6eb3c" /> Welcome to my Profile
 
 👨‍💻 **Software Engineer** at Stone  
 🚀 Working with **Clean Architecture**, **distributed systems**, and scalable solutions.  
